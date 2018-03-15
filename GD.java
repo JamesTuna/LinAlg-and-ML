@@ -2,7 +2,7 @@ import java.util.*;
 public class GD{
 
   /**
-  Gradient descend to approach the target we want
+  Gradient descent to approach the target we want
 
   a: column vector of shape     [n,1]
   B: feature matrix of shape    [n,m]
