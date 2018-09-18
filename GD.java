@@ -14,7 +14,6 @@ public class GD{
   Iterate IT times until error converge
   Learning rate is Ita
 
-  Note: you can initialize and train multiple x to make it more likely to converge at global optimum
   (the essence of SGD and the beauty of linear algebra)
 
   El psy congroo
